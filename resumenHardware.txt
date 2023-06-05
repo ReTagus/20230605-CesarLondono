@@ -1,0 +1,3 @@
+Memoria L1
+Memoria L2
+Memoria L3
